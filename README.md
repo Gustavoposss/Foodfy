@@ -16,10 +16,6 @@ Este app simula o fluxo de navegação por produtos, adição ao carrinho e gere
 
 ---
 
-## 📷 Demonstração
-
-*Adicione aqui prints ou um GIF mostrando o app funcionando*
-
 ---
 
 ## 💻 Como executar o projeto
