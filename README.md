@@ -11,7 +11,6 @@ Este app simula o fluxo de navegação por produtos, adição ao carrinho e gere
 - Flutter + Dart
 - Supabase
 - FlutterFlow (para UI)
-- Firebase Auth (se integrado)
 - VS Code
 
 ---
